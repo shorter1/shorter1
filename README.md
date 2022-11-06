@@ -9,12 +9,13 @@ I'm Caleb, a self taught Data Analyst who from :us:.
 - :file_folder: I started to transitioning to Data Analytics in early 2022
 - :chart_with_upwards_trend: I have always been a analtical thinker and believe numbers drive direction 
 - :computer: I have been working over the past year learning SQL R, and Tableau through certifications and online courses  
-- I frist fell in love with data when my current role challenged me to create a way to have a multi-site reporting process for our clients. 
-Now I use excel for everything from tracking my stock portfolio, family budget, travel plans, client purchases, and more. 
-
 
 ### Core Competencies :books:
-- Tools: SQL, R, Tableau 
+ 
+- SQL, R, Tableau 
+- Presentation
+- Communcation 
+- Leadership 
 
 ### Learnings :mortar_board:
 - Coursera: Google Data Anayltics Professional Certficate
@@ -23,6 +24,9 @@ Now I use excel for everything from tracking my stock portfolio, family budget, 
 - Udemy: Advanced SQL: MySQL Data Analysis & Business Intelligence
 
 ### Currently
+Developing my Portfolio projects:
+- SQL,R, and Tableau dashboards
+
 Learnings:
 - Coursera: Linear Regression and Modeling 
 - Udemy: 100 Days of Code: The Complete Python Pro Bootcamp for 2022
