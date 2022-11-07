@@ -1,14 +1,14 @@
 ### Hi there  :eyes:
 ----
 
-I'm Caleb, a self taught Data Analyst who from :us:. 
+I'm Caleb, a self-taught Data Analyst from :us:. 
 
 ### About Me:sparkles:
 
-- :running: Corporate wellness backgound with 10 years managing fourtune 500 companies wellness programs 
+- :running: Corporate wellness backgound with 10 years managing Fourtune 500 companies' wellness programs 
 - :file_folder: I started to transitioning to Data Analytics in early 2022
+- :computer: I have been working over the past year learning SQL R, and Tableau through certifications and online courses
 - :chart_with_upwards_trend: I have always been a analtical thinker and believe numbers drive direction 
-- :computer: I have been working over the past year learning SQL R, and Tableau through certifications and online courses  
 
 ### Core Competencies :books:
  
@@ -25,9 +25,9 @@ I'm Caleb, a self taught Data Analyst who from :us:.
 
 ### Currently
 Developing my Portfolio projects:
-- SQL,R, and Tableau dashboards
+- SQL, R, and Tableau dashboards
 
-Learnings:
+Learnings In Progress:
 - Coursera: Linear Regression and Modeling 
 - Udemy: 100 Days of Code: The Complete Python Pro Bootcamp for 2022
 
