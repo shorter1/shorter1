@@ -12,7 +12,7 @@ I'm Caleb, a self-taught Data Analyst from :us:.
 
 ### Core Competencies :books:
  
-- SQL, R, Tableau 
+- SQL, Tableau, R 
 - Presentation
 - Communcation 
 - Leadership 
@@ -21,7 +21,9 @@ I'm Caleb, a self-taught Data Analyst from :us:.
 - Coursera: Google Data Anayltics Professional Certficate
 - Udemy: SQL for Data Analysis: Beginner MySQL Business Intelligence 
 - Udemy: Tableau Data Analyst/Specialist Desktop Certifcation 
-- Udemy: Advanced SQL: MySQL Data Analysis & Business Intelligence
+- Maven: MYSQL Data Analysis
+- Maven: Intro To Tableau Desktop 
+- Maven: Statistics For Data Analysis  
 
 ### Currently
 Developing my Portfolio projects:
